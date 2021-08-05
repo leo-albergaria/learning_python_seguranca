@@ -1,7 +1,7 @@
-<p><img src="imagem" align="left" height="150px" width="150px">
-    <h1># Título</h1> 
+<p><img src="https://user-images.githubusercontent.com/63436406/128414111-aea39cb4-83d6-4ba0-995c-6e60c8b85147.png" align="left" height="150px" width="150px">
+    <h1># Segurança da informação com Python</h1> 
     <p align="justify">
-    Você digitar texto aqui.
+    Trabalhar com segurança da informação com a linguagem Python, uma das mais usadas por desenvolvedores de todo o mundo e que é de fácil aprendizado.
     </p>
 </p>      
 
